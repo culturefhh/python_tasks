@@ -1,0 +1,4 @@
+ random import randint
+ + '-'
+def comparisons(listf, tuplef):  # алгоритм для сравнения победных комбинаций с текущими
+    local_list_X
